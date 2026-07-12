@@ -1,0 +1,468 @@
+[{
+  "_id": {
+    "$oid": "68e768056383cdaeb3dc9b66"
+  },
+  "firstName": "sondes",
+  "lastName": "maknesi",
+  "address": "route soltani 54 , tunis, tunisie",
+  "role": "user",
+  "email": "ouelhaziouma12345@gmail.com",
+  "password": "$2b$10$sqG/m35n5Dcyy4fHgj0ck.uSIuclJ0WrW1IQZQ4DbbCbYwo4umjyG",
+  "isDeleted": true,
+  "createdAt": {
+    "$date": "2025-10-09T07:45:09.980Z"
+  },
+  "__v": 0,
+  "resetToken": null,
+  "updatedAt": {
+    "$date": "2025-10-15T08:16:21.755Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ecae50e08c18c08ab31f8e"
+  },
+  "firstName": "safe",
+  "lastName": "tlili",
+  "civility": "mrs",
+  "birthday": {
+    "$date": "2016-01-13T00:00:00.000Z"
+  },
+  "address": "geret",
+  "role": "user",
+  "email": "ouelhazyiouma123@gmail.com",
+  "password": "$2b$10$Ex.FDQiMtvIgoSu2dP9dIevL6kODDIQiZPuw.XdYqXBvwFdIuPnpm",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2025-10-13T07:46:24.371Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68ecc9a1df3b00cc543a5d11"
+  },
+  "firstName": "Ahmed",
+  "lastName": "Ben Ali",
+  "image": "1762103997021-6-komponen-dbms-beserta-fungsinya-masing-masing-dibahas-lengkap.png",
+  "civility": "mr",
+  "birthday": {
+    "$date": "1995-05-20T00:00:00.000Z"
+  },
+  "address": "retres",
+  "cv": "johndoe.pdf",
+  "role": "employee",
+  "email": "ahmed.benali@gmail.com",
+  "password": "$2b$10$y1L1jmJjURsNFjp2uZ01WeLOazXOKjfkbBidVWaFYjE8jYShFDkMu",
+  "isDeleted": false,
+  "company": "lilas",
+  "description": "hhhhhhhhhhhhhhhh",
+  "jobs": [],
+  "createdAt": {
+    "$date": "2025-10-13T09:42:58.003Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-02T17:19:57.100Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68edf8028cc38c20d0b4e73f"
+  },
+  "firstName": "sd",
+  "lastName": "f",
+  "image": "null",
+  "civility": "mr",
+  "birthday": {
+    "$date": "2025-10-14T00:00:00.000Z"
+  },
+  "address": "fgeh",
+  "role": "employee",
+  "email": "fsd@gmail.com",
+  "password": "1",
+  "isDeleted": false,
+  "company": "bsf",
+  "description": "srgr",
+  "jobs": [
+    {
+      "$oid": "68f89eec4a23d510585765b4"
+    },
+    {
+      "$oid": "68f89ef34a23d510585765b8"
+    },
+    {
+      "$oid": "68f89ef64a23d510585765bc"
+    },
+    {
+      "$oid": "68f89ef94a23d510585765c0"
+    },
+    {
+      "$oid": "68f89efc4a23d510585765c4"
+    },
+    {
+      "$oid": "68f89f004a23d510585765c8"
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-10-14T07:13:06.108Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-22T09:08:16.212Z"
+  },
+  "__v": 6
+},
+{
+  "_id": {
+    "$oid": "68ee0689d69f2480e66b015c"
+  },
+  "firstName": "John",
+  "lastName": "Doe",
+  "image": "1762112924657-u.jpg",
+  "civility": "mr",
+  "birthday": {
+    "$date": "1990-05-20T00:00:00.000Z"
+  },
+  "address": "123 Main St",
+  "role": "employee",
+  "email": "john.doez@exampfle.com",
+  "password": "$2b$10$/K6O9WPsxgyD1GkYB71Ife6wAoUl41GdFe4RA0djOQILoBlnf0ovS",
+  "isDeleted": false,
+  "company": "TecchCorp",
+  "description": "Développeur senior",
+  "jobs": [
+    {
+      "$oid": "68f1fe6898fa461b4c06950d"
+    },
+    {
+      "$oid": "68f1fedf98fa461b4c069513"
+    },
+    {
+      "$oid": "68f88c49454d91a5f9022035"
+    },
+    {
+      "$oid": "68f894d2454d91a5f9022042"
+    },
+    {
+      "$oid": "690084ee4356cb0d91270524"
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-10-14T08:15:05.942Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-02T19:48:44.664Z"
+  },
+  "__v": 5
+},
+{
+  "_id": {
+    "$oid": "68ff2df8ebcd8849c722fd0b"
+  },
+  "firstName": "oumayma",
+  "lastName": "welhezi",
+  "address": "route soltani 5481 , tunis, tunisie",
+  "role": "admin",
+  "email": "ouma1234@gmail.com",
+  "password": "$2b$10$ZmvFCUyHa.XtEfa6m4HhCewwW7P6RnE1G776K32Hvx90HLgn.hyui",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2025-10-27T08:31:52.702Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-02T21:12:06.440Z"
+  },
+  "__v": 0,
+  "image": "1762117926431-login3.jpg",
+  "birthday": {
+    "$date": "2025-10-30T00:00:00.000Z"
+  },
+  "civility": "ms"
+},
+{
+  "_id": {
+    "$oid": "690461b1218f26bb33b931fd"
+  },
+  "firstName": "hela",
+  "lastName": "gtlili",
+  "image": "1761894833445-1_agcrqujosgojyj6muk0x9a.jpeg",
+  "civility": "mr",
+  "birthday": null,
+  "address": "retres",
+  "role": "employee",
+  "email": "hela@gmail.com",
+  "password": "$2b$10$LTAct1K4.eHzpWZ0ZW/.seFq5zgosax/x/UQbdd/MUoh/.3BGSnnO",
+  "isDeleted": false,
+  "company": "erter",
+  "description": "ttr't",
+  "jobs": [],
+  "createdAt": {
+    "$date": "2025-10-31T07:13:53.570Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-31T07:13:53.570Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "690462bcb8002ecaa581e697"
+  },
+  "firstName": "senda",
+  "lastName": "jmili",
+  "image": "1761895100836-u.jpg",
+  "civility": "mr",
+  "birthday": {
+    "$date": "2025-10-15T00:00:00.000Z"
+  },
+  "address": "reterter",
+  "role": "employee",
+  "email": "senda@gmail.com",
+  "password": "$2b$10$14PLt.F6ibKIQLHbWxTta.EAZOKf5IGCPNl0ftnUqf8mMvehbfmCy",
+  "isDeleted": false,
+  "company": "SofiaX",
+  "description": "rttrter",
+  "jobs": [],
+  "createdAt": {
+    "$date": "2025-10-31T07:18:20.950Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-31T07:18:20.950Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69046327b8002ecaa581e69e"
+  },
+  "firstName": "lemin",
+  "lastName": "chams",
+  "image": "1761895207592-login3.jpg",
+  "civility": "mr",
+  "birthday": {
+    "$date": "2025-10-14T00:00:00.000Z"
+  },
+  "address": "rtyge",
+  "role": "employee",
+  "email": "lemin14@gmail.com",
+  "password": "$2b$10$NkBAMaJz.7IK/0S8xXWXBu1OXHFEQ6CddFI8djSKOccXlE5N31h8y",
+  "isDeleted": false,
+  "company": "gggg",
+  "description": "rgerter",
+  "jobs": [],
+  "createdAt": {
+    "$date": "2025-10-31T07:20:07.686Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-31T07:20:07.686Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69046550b8002ecaa581e6ab"
+  },
+  "firstName": "semi",
+  "lastName": "bouziga",
+  "image": "1761895760738-login1.png",
+  "civility": "mr",
+  "birthday": {
+    "$date": "2025-10-14T00:00:00.000Z"
+  },
+  "address": "rtrt",
+  "role": "employee",
+  "email": "de@ht",
+  "password": "$2b$10$gsCXoMSk8ffUpIwBOJgMD.vUsEYo/n0dVMh9aWpWspsfX2b5K.81e",
+  "isDeleted": false,
+  "company": "ttyer",
+  "description": "erert",
+  "jobs": [],
+  "createdAt": {
+    "$date": "2025-10-31T07:29:20.828Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-31T07:29:20.828Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6904660517a118e198f35351"
+  },
+  "firstName": "rtetr",
+  "lastName": "ertetr",
+  "image": "1761895941326-login.jpg",
+  "civility": "mr",
+  "birthday": {
+    "$date": "2025-10-08T00:00:00.000Z"
+  },
+  "address": "ete",
+  "role": "employee",
+  "email": "ertet",
+  "password": "$2b$10$G9/xeD0gkfLSyGBsdFFFhuyf68E85RJDlPtiE.cqACkXA3NDg6QpG",
+  "isDeleted": false,
+  "company": "ertge",
+  "description": "erter",
+  "jobs": [],
+  "createdAt": {
+    "$date": "2025-10-31T07:32:21.440Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-31T07:32:21.440Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "690466b217a118e198f3535e"
+  },
+  "firstName": "erter",
+  "lastName": "rgert",
+  "image": "1761896114208-u.jpg",
+  "civility": "mr",
+  "birthday": {
+    "$date": "2025-10-15T00:00:00.000Z"
+  },
+  "address": "rt",
+  "role": "employee",
+  "email": "erete",
+  "password": "$2b$10$uKQnEZzOlMd5TWTOD0XxUue.hw0X5nW/9dyWy/xeMXPt2C69A3VIK",
+  "isDeleted": true,
+  "company": "rregg",
+  "description": "ger",
+  "jobs": [],
+  "createdAt": {
+    "$date": "2025-10-31T07:35:14.309Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-31T07:38:43.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "690466d017a118e198f35363"
+  },
+  "firstName": "tt",
+  "lastName": "rrer'",
+  "image": "1761896144405-relevÃ© de note.png",
+  "civility": "mr",
+  "birthday": {
+    "$date": "2025-10-08T00:00:00.000Z"
+  },
+  "address": "zez",
+  "role": "employee",
+  "email": "erze",
+  "password": "$2b$10$dICS1YsY5CzDX9/sr.v9Rea3elFXnqTsBHccqLJNf9nwtQjslzgWy",
+  "isDeleted": true,
+  "company": "zze",
+  "description": "ze",
+  "jobs": [],
+  "createdAt": {
+    "$date": "2025-10-31T07:35:44.488Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-31T07:38:32.991Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6904670317a118e198f35368"
+  },
+  "firstName": "erte",
+  "lastName": "reer",
+  "image": "1761896195091-login1.png",
+  "civility": "mr",
+  "birthday": {
+    "$date": "2025-10-15T00:00:00.000Z"
+  },
+  "address": "ef",
+  "role": "employee",
+  "email": "ere",
+  "password": "$2b$10$xXBauWMQvXPX9fG/y3rtKO2PHADLgwppkXbtH6Es8YWyOYEb6NdFK",
+  "isDeleted": true,
+  "company": "zez",
+  "description": "zzz",
+  "jobs": [],
+  "createdAt": {
+    "$date": "2025-10-31T07:36:35.182Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-31T07:37:31.626Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69046c68f5f350a43894799c"
+  },
+  "firstName": "selim",
+  "lastName": "safi",
+  "image": "1761897576037-1_agcrqujosgojyj6muk0x9a.jpeg",
+  "civility": "mr",
+  "birthday": null,
+  "address": "retres",
+  "role": "employee",
+  "email": "ouelhaziouma1235@gmail.com",
+  "password": "$2b$10$alyGTUHMqjS7d5IjVDhBZ.NR0k0SuSKnMZmO87RPhj2qZRXI3V1JO",
+  "isDeleted": true,
+  "company": "foxi",
+  "description": "ttr'tghr",
+  "jobs": [],
+  "createdAt": {
+    "$date": "2025-10-31T07:59:36.156Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-31T08:03:52.977Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69046cdb588d666f59399b5a"
+  },
+  "firstName": "selim",
+  "lastName": "safi",
+  "image": "1761897691787-1_agcrqujosgojyj6muk0x9a.jpeg",
+  "civility": "mr",
+  "birthday": null,
+  "address": "retres",
+  "role": "employee",
+  "email": "ouelhaziouma123@gmail.com",
+  "password": "$2b$10$gGskYaccP5zbAZu7Ks2GEOXogpuVdfNOc4SzaxcvZDLWmlP/4G5t.",
+  "isDeleted": false,
+  "company": "foxi",
+  "description": "ttr'tghr",
+  "jobs": [],
+  "createdAt": {
+    "$date": "2025-10-31T08:01:31.881Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-31T08:01:31.881Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a52b3f11f59f5070287c6ef"
+  },
+  "firstName": "toufik",
+  "lastName": "yyy",
+  "civility": "mr",
+  "birthday": {
+    "$date": "2026-07-11T00:00:00.000Z"
+  },
+  "address": "route soltani 5481 , tunis, tunisie",
+  "role": "user",
+  "email": "toufik@gmail.com",
+  "password": "$2b$10$wIfYqtQ5ohy8PaBtB90Ld.xtyozxIUE7YH.zPeh.q/5.8sPQDHCym",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-07-11T21:21:53.696Z"
+  },
+  "updatedAt": {
+    "$date": "2026-07-11T21:21:53.696Z"
+  },
+  "__v": 0
+}]

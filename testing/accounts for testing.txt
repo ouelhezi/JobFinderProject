@@ -1,0 +1,10 @@
+Admin account:
+email : ouma1234@gmail.com
+pass : 1
+
+Employee account:
+email : john.doez@exampfle.com
+pass : 1
+
+User account : toufik@gmail.com
+pass : 1
