@@ -264,4 +264,4 @@ Possible improvements:
 ---
 
 # Live Demo
-[▶️ JobFinder Demo Video](https://drive.google.com/file/d/1M-kn_Jggnh20-WyM5PcyZMOlgPRV88Sr/view?usp=sharing)
+[![JobFinder Demo](https://s3-alpha.figma.com/hub/file/5112719990/f43b67c2-f454-42a8-aeab-cf2e759ca4ad-cover.png)](https://drive.google.com/file/d/1M-kn_Jggnh20-WyM5PcyZMOlgPRV88Sr/view?usp=sharing)
